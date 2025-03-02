@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Laptop Gamer ASUS", "price": 1200, "image": "https://m.media-amazon.com/images/I/61+8Y+rDgOL._AC_SL1242_.jpg" },
+  { "id": 2, "name": "Mouse Inalámbrico Logitech", "price": 40, "image": "https://resource.logitechg.com/w_386,ar_1.0,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/gaming/en/products/pro-2-lightspeed/gallery/pro2-lightspeed-pink-gallery1.png?v=1" },
+  { "id": 3, "name": "Teclado Mecánico Redragon", "price": 80, "image": "https://acosa.com.sv/wp-content/uploads/2022/08/K552-KR-SP.jpg" },
+  { "id": 4, "name": "Monitor 27\" 144Hz", "price": 250, "image": "https://www.lg.com/cac/images/monitores/md06141916/gallery/N01_M-01.jpg" },
+  { "id": 5, "name": "Auriculares Bose QuietComfort 35", "price": 300, "image": "https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/products/headphones/qc35_ii/images/qc35_ii_product_page_hotspot_silo_1x1.psd/jcr:content/renditions/cq5dam.web.320.320.jpeg" },
+  { "id": 6, "name": "Raton Gaming Razer DeathAdder", "price": 50, "image": "https://siman.vtexassets.com/arquivos/ids/4337678/104196087.jpg?v=638218579468730000" },
+  { "id": 7, "name": "Silla Gaming DXRacer", "price": 350, "image": "https://m.media-amazon.com/images/I/712UqX-KrxL.jpg" },
+  { "id": 8, "name": "Teclado Mecánico Corsair K70 RGB", "price": 130, "image": "https://api.zonadigitalsv.com/storage/products/imagen_generada67be109c2e2f8.jpg" },
+  { "id": 9, "name": "Laptop Dell XPS 15", "price": 1400, "image": "https://www.ubuy.sv/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvOTFXZ0wzSWJOSUwuX0FDX1NMMTUwMF8uanBn.jpg" },
+  { "id": 10, "name": "Smartphone Samsung Galaxy S21", "price": 799, "image": "https://walmartsv.vtexassets.com/arquivos/ids/323433/Cel-Gsm-Samsung-S21-128G-1-4587.jpg?v=638253345732970000" },
+  { "id": 11, "name": "Tablet Apple iPad Pro", "price": 999, "image": "https://siman.vtexassets.com/arquivos/ids/1574390/103396099.jpg?v=637624941514030000" },
+  { "id": 12, "name": "Cámara GoPro HERO10 Black", "price": 399, "image": "https://www.ubuy.sv/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNjFwMmZZZFlQK0wuX0FDX1NMMTUwMF8uanBn.jpg" },
+  { "id": 13, "name": "Xbox Series X", "price": 500, "image": "https://www.radioshackla.com/media/catalog/product/f/d/fd9cc3cc-3533-4eec-a87d-e6abcc77aae7.0e7d395789bb5e75eb627b80cfe78b13_svrheuzogcmhtvzt.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700" },
+  { "id": 14, "name": "PlayStation 5", "price": 499, "image": "https://api.zonadigitalsv.com/storage/products/imagen_generada672f96a1d8ca3.jpg" },
+  { "id": 15, "name": "Auriculares Sony WH-1000XM4", "price": 350, "image": "https://www.sony.com.sv/image/5d02da5df552836db894cead8a68f5f3?fmt=pjpeg&wid=330&bgcolor=FFFFFF&bgc=FFFFFF" },
+  { "id": 16, "name": "SSD Samsung 970 EVO Plus 1TB", "price": 130, "image": "https://mitiendasv.com/wp-content/uploads/2024/06/FDG-600x450.webp" },
+  { "id": 17, "name": "Monitor LG UltraWide", "price": 350, "image": "https://www.lg.com/cac/images/monitores/md07523885/gallery/D_01.jpg" },
+  { "id": 18, "name": "Router TP-Link Archer AX6000", "price": 230, "image": "https://static.tp-link.com/AX6000_01_normal_1544079601279f.jpg" },
+  { "id": 19, "name": "Razer BlackWidow V3 Tenkeyless", "price": 115, "image": "https://kpchardware.com/16805-large_default/razer-blackwidow-v3-tenkeyless-switches-amarillos-rgb.jpg" },
+  { "id": 20, "name": "Logitech G435 Headphones", "price": 60, "image": "https://www.techstop.com/storage/main_image/MJaPS1DWuP82W9nvsKXEqCYoHKJXCQ0S3vTicfy2.png" }
+]
