@@ -18,5 +18,5 @@
   { "id": 17, "name": "Monitor LG UltraWide", "price": 350, "image": "https://www.lg.com/cac/images/monitores/md07523885/gallery/D_01.jpg" },
   { "id": 18, "name": "Router TP-Link Archer AX6000", "price": 230, "image": "https://static.tp-link.com/AX6000_01_normal_1544079601279f.jpg" },
   { "id": 19, "name": "Razer BlackWidow V3 Tenkeyless", "price": 115, "image": "https://kpchardware.com/16805-large_default/razer-blackwidow-v3-tenkeyless-switches-amarillos-rgb.jpg" },
-  { "id": 19, "name": "Logitech G435 Headphones", "price": 60, "image": "https://www.techstop.com/storage/main_image/MJaPS1DWuP82W9nvsKXEqCYoHKJXCQ0S3vTicfy2.png" }
+  { "id": 20, "name": "Logitech G435 Headphones", "price": 60, "image": "https://www.techstop.com/storage/main_image/MJaPS1DWuP82W9nvsKXEqCYoHKJXCQ0S3vTicfy2.png" }
 ]
