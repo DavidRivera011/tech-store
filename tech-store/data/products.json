@@ -1,0 +1,6 @@
+[
+    { "id": 1, "name": "Laptop Gamer ASUS", "price": 1200, "image": "/images/laptop-asus.jpg" },
+    { "id": 2, "name": "Mouse Inalámbrico Logitech", "price": 40, "image": "/images/mouse-logitech.jpg" },
+    { "id": 3, "name": "Teclado Mecánico Redragon", "price": 80, "image": "/images/teclado-redragon.jpg" },
+    { "id": 4, "name": "Monitor 27\" 144Hz", "price": 250, "image": "/images/monitor-144hz.jpg" }
+  ]
